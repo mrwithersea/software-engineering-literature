@@ -6,3 +6,6 @@ Talks I found useful and inspirational
 
 - [Acceptance Testing for Continuous Delivery • Dave Farley](https://www.youtube.com/watch?v=SBhgteA2szg&t=333s) | [slides](https://qconlondon.com/london-2016/system/files/presentation-slides/davefarley.pdf)
   - Executable specifications, aliases, temporal isolation, test doubles
+  
+- [Testing Web Services with QuickCheck • Thomas Arts](https://www.youtube.com/watch?v=dDDCSDTHRZo) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/627/original/ElixirConfEU_2017_-_TestingWebServiceWithQC_-_Thomas_Arts.pdf?1495020439)
+  - Generative testing, property-based tests, 
