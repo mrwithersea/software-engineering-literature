@@ -13,3 +13,5 @@ Talks I found useful and inspirational
 - [Speed & Scale: How to get there • Adrian Cockcroft](https://www.youtube.com/watch?v=BeNrVl2_nyI) | [slides](https://www.slideshare.net/adriancockcroft/b-goto-chicago)
   - Lean, CD, feature flags, devops
 
+- [The Death of Agile • Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk) | [slides](https://holub.com/slidesrc/DeathOfAgile.key.pdf)
+  - Agile, scrum, xp, processes
