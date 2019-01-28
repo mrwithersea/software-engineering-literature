@@ -20,6 +20,9 @@ Literature and presentations I found useful and inspirational.
 
 ## Books
 
+- [Extreme Programming Explained: Embrace Change, 2nd Edition • Kent Beck](https://www.amazon.co.uk/dp/B00N1ZN6C0/ref=cm_sw_em_r_mt_dp_U_VzStCbT3BQC6Q)
+  - XP, pair programming, theory of constraints, flow, test-first, cross-functional teams
+
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win • Gene Kim, Kevin Behr, George Spafford](https://www.amazon.co.uk/dp/1942788290/ref=cm_sw_em_r_mt_dp_U_YbhsCbY0W6JWY)
   - lean, devops, kanban
   
@@ -28,5 +31,6 @@ Literature and presentations I found useful and inspirational.
   
 - [The Bottleneck Rules: How To Get More Done at Work, Without Working Harder • Clarke Ching](https://www.amazon.co.uk/dp/B07DCFR7B4/ref=cm_sw_em_r_mt_dp_U_O-gsCbKXG55K6)
   - bottlenecks, theory of constraints, lean 
-  
+
+
   
