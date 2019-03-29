@@ -16,7 +16,10 @@ Literature and presentations I found useful and inspirational.
   - lean, continuous delivery, feature flags, devops
 
 - [The Death of Agile • Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk) | [slides](https://holub.com/slidesrc/DeathOfAgile.key.pdf)
-  - agile, scrum, xp, processes
+  - agility, scrum, xp, processes
+  
+- [Agile is Dead (Long Live Agility) • Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M) | [slide](http://gotocon.com/amsterdam-2015/presentation/EVENING%20KEYNOTE:%20Agile%20is%20Dead)
+  - manifesto for agile software development, agile is not a noun
 
 ## Books
 
@@ -31,6 +34,9 @@ Literature and presentations I found useful and inspirational.
   
 - [The Bottleneck Rules: How To Get More Done at Work, Without Working Harder • Clarke Ching](https://www.amazon.co.uk/dp/B07DCFR7B4/ref=cm_sw_em_r_mt_dp_U_O-gsCbKXG55K6)
   - bottlenecks, theory of constraints, lean 
+  
+- [Kanban • David J. Anderson](https://www.amazon.co.uk/dp/B0057H2M70/ref=cm_sw_em_r_mt_dp_U_7EFNCbZAJ6F8X)
+  - pull systems, drum buffer rope, lead time, wip constraints, 7 cadences
 
 
   
