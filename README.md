@@ -16,9 +16,9 @@ Literature and presentations I found useful and inspirational.
   - lean, continuous delivery, feature flags, devops
 
 - [The Death of Agile • Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk) | [slides](https://holub.com/slidesrc/DeathOfAgile.key.pdf)
-  - agility, scrum, xp, processes
+  - agility, scrum, xp, processes, cargo cults
   
-- [Agile is Dead (Long Live Agility) • Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M) | [slide](http://gotocon.com/amsterdam-2015/presentation/EVENING%20KEYNOTE:%20Agile%20is%20Dead)
+- [Agile is Dead (Long Live Agility) • Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M) | [slides](http://gotocon.com/amsterdam-2015/presentation/EVENING%20KEYNOTE:%20Agile%20is%20Dead)
   - manifesto for agile software development, agile is not a noun
 
 ## Books
